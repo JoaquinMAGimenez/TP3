@@ -54,7 +54,7 @@ while (not c.cola_vacia()):
         print ('losdatos de los personajes con nombres y nombres de heroe con S son:')
         print(dato.nombre)
         print(dato.nombre_de_heroe)
-        print(dato.genero) 
+        print(dato.genero)
      #F
     if((dato.nombre == 'Carol Danvers')):
         print ('Si el personaje se encuentra en la cola y su nombre de super heroe es:', dato.nombre_de_heroe)
